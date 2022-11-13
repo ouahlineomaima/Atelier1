@@ -5,7 +5,9 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Hi! I'm scrum master");
 		System.out.println("Hi scrum master! I'm dev");
+		System.out.println("test rebase");
 		System.out.println("test merge");
+		
 
 	}
 
